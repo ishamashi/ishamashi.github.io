@@ -1,8 +1,19 @@
 .jumbotron {
-	padding-top: 2rem;
-	background-color: #ffb6b9;
+	padding-top: 5rem;
+	background-color: #ff616f;
 }
 
-.activity, .contact {
-	background-color: #ffb6b9;
+.activity, .video {
+	background-color: #ff616f;
 }
+
+footer {
+	background-color: #ff1744;
+}
+
+section {
+	padding-top: 6rem;
+}
+/*ff616f*/
+/*ffb6b9*/
+/*ff1744*/
